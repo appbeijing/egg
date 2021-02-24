@@ -1,0 +1,2322 @@
+2021-01-23 15:28:44,838 ERROR 18892 [-/127.0.0.1/-/8ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 18892
+hostname: ��ѧ��˧������
+
+2021-01-23 15:29:00,793 ERROR 18888 [-/127.0.0.1/-/8ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 18888
+hostname: ��ѧ��˧������
+
+2021-01-23 15:31:22,825 ERROR 24908 [-/127.0.0.1/-/5ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 24908
+hostname: ��ѧ��˧������
+
+2021-01-23 15:31:46,828 ERROR 19712 [-/127.0.0.1/-/4ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 19712
+hostname: ��ѧ��˧������
+
+2021-01-23 15:32:14,476 ERROR 19712 [-/127.0.0.1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 19712
+hostname: ��ѧ��˧������
+
+2021-01-23 15:32:28,100 ERROR 17432 [-/127.0.0.1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17432
+hostname: ��ѧ��˧������
+
+2021-01-23 15:33:32,872 ERROR 29844 [-/127.0.0.1/-/7ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 29844
+hostname: ��ѧ��˧������
+
+2021-01-23 15:34:36,583 ERROR 29844 [-/127.0.0.1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 29844
+hostname: ��ѧ��˧������
+
+2021-01-23 15:39:00,851 ERROR 29844 [-/127.0.0.1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 29844
+hostname: ��ѧ��˧������
+
+2021-01-23 15:39:01,066 ERROR 29844 [-/127.0.0.1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 29844
+hostname: ��ѧ��˧������
+
+2021-01-23 15:39:01,202 ERROR 29844 [-/127.0.0.1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 29844
+hostname: ��ѧ��˧������
+
+2021-01-23 15:40:18,062 ERROR 29916 [-/127.0.0.1/-/134ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 29916
+hostname: ��ѧ��˧������
+
+2021-01-23 15:42:42,574 ERROR 1620 [-/127.0.0.1/-/26ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 1620
+hostname: ��ѧ��˧������
+
+2021-01-23 15:42:43,168 ERROR 1620 [-/127.0.0.1/-/16ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 1620
+hostname: ��ѧ��˧������
+
+2021-01-23 15:42:43,368 ERROR 1620 [-/127.0.0.1/-/16ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 1620
+hostname: ��ѧ��˧������
+
+2021-01-23 15:42:43,569 ERROR 1620 [-/127.0.0.1/-/17ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 1620
+hostname: ��ѧ��˧������
+
+2021-01-23 15:44:23,176 ERROR 22672 [-/127.0.0.1/-/21ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 22672
+hostname: ��ѧ��˧������
+
+2021-01-23 15:46:00,902 ERROR 12600 [-/127.0.0.1/-/28ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 12600
+hostname: ��ѧ��˧������
+
+2021-01-23 15:46:01,944 ERROR 12600 [-/127.0.0.1/-/15ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 12600
+hostname: ��ѧ��˧������
+
+2021-01-23 15:46:02,584 ERROR 12600 [-/127.0.0.1/-/15ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 12600
+hostname: ��ѧ��˧������
+
+2021-01-23 15:54:29,300 ERROR 25708 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\dev\\egg\\app\\view\\config.js"
+name: "EPERMError"
+pid: 25708
+hostname: ��ѧ��˧������
+
+2021-01-23 15:54:33,380 ERROR 25708 nodejs.EPERMError: EPERM: operation not permitted, watch
+    at FSEvent.FSWatcher._handle.onchange (internal/fs/watchers.js:127:28)
+errno: -4048
+syscall: "watch"
+code: "EPERM"
+filename: null
+dir: "D:\\dev\\egg\\app\\view\\config"
+name: "EPERMError"
+pid: 25708
+hostname: ��ѧ��˧������
+
+2021-01-23 15:55:59,151 ERROR 27340 [-/127.0.0.1/-/24ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 27340
+hostname: ��ѧ��˧������
+
+2021-01-23 15:59:43,584 ERROR 28068 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 28068
+hostname: ��ѧ��˧������
+
+2021-01-23 15:59:45,547 ERROR 5044 [-/127.0.0.1/-/23ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 5044
+hostname: ��ѧ��˧������
+
+2021-01-23 16:00:13,565 ERROR 28068 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 28068
+hostname: ��ѧ��˧������
+
+2021-01-23 16:00:15,321 ERROR 304 [-/127.0.0.1/-/15ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 304
+hostname: ��ѧ��˧������
+
+2021-01-23 16:01:41,338 ERROR 28068 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 28068
+hostname: ��ѧ��˧������
+
+2021-01-23 16:02:00,883 ERROR 13304 [-/127.0.0.1/-/17ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 13304
+hostname: ��ѧ��˧������
+
+2021-01-23 16:02:13,255 ERROR 28068 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 28068
+hostname: ��ѧ��˧������
+
+2021-01-23 16:02:33,017 ERROR 28068 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 28068
+hostname: ��ѧ��˧������
+
+2021-01-23 16:02:34,838 ERROR 28068 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 28068
+hostname: ��ѧ��˧������
+
+2021-01-23 16:02:45,916 ERROR 23080 [-/127.0.0.1/-/26ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 23080
+hostname: ��ѧ��˧������
+
+2021-01-23 16:04:48,515 ERROR 23080 [-/127.0.0.1/-/11ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:67:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 23080
+hostname: ��ѧ��˧������
+
+2021-01-23 16:05:00,380 ERROR 8588 [-/127.0.0.1/-/23ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 8588
+hostname: ��ѧ��˧������
+
+2021-01-23 16:06:17,917 ERROR 18908 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 18908
+hostname: ��ѧ��˧������
+
+2021-01-23 16:06:42,187 ERROR 31648 [-/127.0.0.1/-/24ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 31648
+hostname: ��ѧ��˧������
+
+2021-01-23 16:08:36,934 ERROR 28260 [-/127.0.0.1/-/28ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 28260
+hostname: ��ѧ��˧������
+
+2021-01-23 16:08:37,953 ERROR 28260 [-/127.0.0.1/-/30ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 28260
+hostname: ��ѧ��˧������
+
+2021-01-23 16:09:21,436 ERROR 22604 [-/127.0.0.1/-/26ms GET /] nodejs.AssertionError: 0Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 22604
+hostname: ��ѧ��˧������
+
+2021-01-23 16:13:37,006 ERROR 30036 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 30036
+hostname: ��ѧ��˧������
+
+2021-01-23 16:13:37,858 ERROR 30036 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 30036
+hostname: ��ѧ��˧������
+
+2021-01-23 16:13:40,583 ERROR 3404 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\base_context_class.js:25:20)
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg@2.29.1@egg\lib\core\base_context_class.js:13:1)
+    at new HomeController (D:\dev\egg\app\controller\home.js:2:1)
+    at classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:83:26)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+
+pid: 3404
+hostname: ��ѧ��˧������
+
+2021-01-23 16:13:50,720 ERROR 30036 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 30036
+hostname: ��ѧ��˧������
+
+2021-01-23 16:13:51,081 ERROR 24400 [-/127.0.0.1/-/4ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\base_context_class.js:25:20)
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg@2.29.1@egg\lib\core\base_context_class.js:13:1)
+    at new HomeController (D:\dev\egg\app\controller\home.js:2:1)
+    at classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:83:26)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+
+pid: 24400
+hostname: ��ѧ��˧������
+
+2021-01-23 16:13:51,209 ERROR 24400 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\base_context_class.js:25:20)
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg@2.29.1@egg\lib\core\base_context_class.js:13:1)
+    at new HomeController (D:\dev\egg\app\controller\home.js:2:1)
+    at classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:83:26)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+
+pid: 24400
+hostname: ��ѧ��˧������
+
+2021-01-23 16:13:51,366 ERROR 24400 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'app' of undefined
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\base_context_class.js:25:20)
+    at new BaseContextClass (D:\dev\egg\node_modules\_egg@2.29.1@egg\lib\core\base_context_class.js:13:1)
+    at new HomeController (D:\dev\egg\app\controller\home.js:2:1)
+    at classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:83:26)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+    at dispatch (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:195:33)
+
+pid: 24400
+hostname: ��ѧ��˧������
+
+2021-01-23 16:14:51,614 ERROR 30036 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 30036
+hostname: ��ѧ��˧������
+
+2021-01-23 16:15:56,356 ERROR 26112 [-/127.0.0.1/-/35ms GET /] nodejs.AssertionError: 0Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 26112
+hostname: ��ѧ��˧������
+
+2021-01-23 16:16:21,064 ERROR 26112 [-/127.0.0.1/-/15ms GET /] nodejs.AssertionError: 0Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 26112
+hostname: ��ѧ��˧������
+
+2021-01-23 16:16:38,964 ERROR 23940 [-/127.0.0.1/-/35ms GET /] nodejs.AssertionError: 0Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 23940
+hostname: ��ѧ��˧������
+
+2021-01-23 16:18:18,345 ERROR 16752 [-/127.0.0.1/-/30ms GET /] nodejs.AssertionError: 0Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:68:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 16752
+hostname: ��ѧ��˧������
+
+2021-01-23 16:19:21,680 ERROR 17000 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 17000
+hostname: ��ѧ��˧������
+
+2021-01-23 16:19:22,415 ERROR 17000 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 17000
+hostname: ��ѧ��˧������
+
+2021-01-23 16:20:18,558 ERROR 27680 [-/127.0.0.1/-/9ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 27680
+hostname: ��ѧ��˧������
+
+2021-01-23 16:20:37,938 ERROR 19464 [-/127.0.0.1/-/5ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 19464
+hostname: ��ѧ��˧������
+
+2021-01-23 16:20:58,968 ERROR 17424 [-/127.0.0.1/-/8ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17424
+hostname: ��ѧ��˧������
+
+2021-01-23 16:21:00,012 ERROR 17424 [-/127.0.0.1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17424
+hostname: ��ѧ��˧������
+
+2021-01-23 16:21:00,206 ERROR 17424 [-/127.0.0.1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17424
+hostname: ��ѧ��˧������
+
+2021-01-23 16:21:00,382 ERROR 17424 [-/127.0.0.1/-/0ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17424
+hostname: ��ѧ��˧������
+
+2021-01-23 16:21:00,526 ERROR 17424 [-/127.0.0.1/-/1ms GET /] nodejs.AssertionError: Can't find viewEngine for D:\dev\egg\app\view\index.html
+    at ContextView.[contextView#render] (D:\dev\egg\node_modules\_egg-view@2.1.3@egg-view\lib\context_view.js:66:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:4:5)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (D:\dev\egg\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async D:\dev\egg\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:41:56
+generatedMessage: false
+code: "ERR_ASSERTION"
+actual: ""
+expected: true
+operator: "=="
+pid: 17424
+hostname: ��ѧ��˧������
+
+2021-01-23 16:23:39,538 ERROR 12080 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12080
+hostname: ��ѧ��˧������
+
+2021-01-23 16:57:47,508 ERROR 12080 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12080
+hostname: ��ѧ��˧������
+
+2021-01-23 16:58:01,218 ERROR 11672 [-/127.0.0.1/-/4ms GET /] nodejs.TypeError: this.service.city.GetCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:40)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 11672
+hostname: ��ѧ��˧������
+
+2021-01-23 16:58:49,110 ERROR 11672 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.city.GetCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:40)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 11672
+hostname: ��ѧ��˧������
+
+2021-01-23 16:59:17,563 ERROR 31368 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 31368
+hostname: ��ѧ��˧������
+
+2021-01-23 16:59:23,451 ERROR 25792 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: this.service.GetCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 25792
+hostname: ��ѧ��˧������
+
+2021-01-23 16:59:31,404 ERROR 25308 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 25308
+hostname: ��ѧ��˧������
+
+2021-01-23 16:59:36,312 ERROR 31368 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 31368
+hostname: ��ѧ��˧������
+
+2021-01-23 16:59:49,592 ERROR 31368 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 31368
+hostname: ��ѧ��˧������
+
+2021-01-23 17:00:01,924 ERROR 964 [-/127.0.0.1/-/96ms GET /] nodejs.TypeError: this.service.etCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 964
+hostname: ��ѧ��˧������
+
+2021-01-23 17:00:43,937 ERROR 30528 [-/127.0.0.1/-/21ms GET /] nodejs.TypeError: this.service.etCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 30528
+hostname: ��ѧ��˧������
+
+2021-01-23 17:01:10,630 ERROR 1836 [-/127.0.0.1/-/17ms GET /] nodejs.TypeError: this.service.etCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 1836
+hostname: ��ѧ��˧������
+
+2021-01-23 17:02:07,534 ERROR 1988 [-/127.0.0.1/-/8ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 1988
+hostname: ��ѧ��˧������
+
+2021-01-23 17:02:15,843 ERROR 21312 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: Cannot read property 'getCity' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:39)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 21312
+hostname: ��ѧ��˧������
+
+2021-01-23 17:02:16,391 ERROR 21312 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'getCity' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:39)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 21312
+hostname: ��ѧ��˧������
+
+2021-01-23 17:02:22,819 ERROR 15372 [-/127.0.0.1/-/4ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15372
+hostname: ��ѧ��˧������
+
+2021-01-23 17:02:23,379 ERROR 15372 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15372
+hostname: ��ѧ��˧������
+
+2021-01-23 17:02:23,561 ERROR 22304 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 22304
+hostname: ��ѧ��˧������
+
+2021-01-23 17:02:52,037 ERROR 21548 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 21548
+hostname: ��ѧ��˧������
+
+2021-01-23 17:03:08,699 ERROR 12976 [-/127.0.0.1/-/99ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 12976
+hostname: ��ѧ��˧������
+
+2021-01-23 17:07:03,286 ERROR 29816 [-/127.0.0.1/-/17ms GET /] nodejs.TypeError: this.service.getCity is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 29816
+hostname: ��ѧ��˧������
+
+2021-01-23 17:07:31,983 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:07:32,721 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:07:33,493 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:07:33,609 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:07:34,276 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:08:09,412 ERROR 23148 [-/127.0.0.1/-/13ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 23148
+hostname: ��ѧ��˧������
+
+2021-01-23 17:08:55,378 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:09:02,804 ERROR 18636 [-/127.0.0.1/-/12ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18636
+hostname: ��ѧ��˧������
+
+2021-01-23 17:09:11,251 ERROR 11756 [-/127.0.0.1/-/6ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 11756
+hostname: ��ѧ��˧������
+
+2021-01-23 17:09:19,508 ERROR 13760 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 13760
+hostname: ��ѧ��˧������
+
+2021-01-23 17:09:27,405 ERROR 10836 [-/127.0.0.1/-/21ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:6:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 10836
+hostname: ��ѧ��˧������
+
+2021-01-23 17:11:35,478 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:11:36,206 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:11:36,976 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:11:58,364 ERROR 15348 [-/127.0.0.1/-/5ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:11:59,087 ERROR 15348 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:11:59,596 ERROR 15348 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:11:59,963 ERROR 15348 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:00,223 ERROR 15348 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:00,491 ERROR 15348 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:00,750 ERROR 15348 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:01,026 ERROR 15348 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:01,251 ERROR 15348 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: Cannot read property 'city' of undefined
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 15348
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:16,057 ERROR 18764 [-/127.0.0.1/-/4ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:16,588 ERROR 18764 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:16,803 ERROR 18764 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:16,986 ERROR 18764 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:17,192 ERROR 18764 [-/127.0.0.1/-/3ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:17,355 ERROR 18764 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:17,557 ERROR 18764 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:17,738 ERROR 18764 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:17,923 ERROR 18764 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:18,096 ERROR 18764 [-/127.0.0.1/-/2ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:18,243 ERROR 18764 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:18,419 ERROR 18764 [-/127.0.0.1/-/0ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:12:18,596 ERROR 18764 [-/127.0.0.1/-/1ms GET /] nodejs.TypeError: this.service.city is not a function
+    at HomeController.index (D:\dev\egg\app\controller\home.js:5:35)
+    at Object.callFn (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (D:\dev\egg\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at D:\dev\egg\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at D:\dev\egg\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+
+pid: 18764
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:16,838 ERROR 12568 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 12568
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:22,552 ERROR 2516 [-/127.0.0.1/-/2265ms GET /] nodejs.RequestError: getaddrinfo ENOTFOUND undefined, GET http://undefined/base/pc/web/cityInfo -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":1,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"undefined:80:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:66:26)
+errno: "ENOTFOUND"
+code: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "undefined"
+name: "RequestError"
+data: undefined
+path: "/base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":2258,"keepAliveSocket":false,"requestUrls":["http://undefined/base/pc/web/cityInfo"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 2516
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:28,005 ERROR 2516 [-/127.0.0.1/-/2254ms GET /] nodejs.RequestError: getaddrinfo ENOTFOUND undefined, GET http://undefined/base/pc/web/cityInfo -1 (connected: false, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":2,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"undefined:80:":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:66:26)
+errno: "ENOTFOUND"
+code: "ENOTFOUND"
+syscall: "getaddrinfo"
+hostname: "undefined"
+name: "RequestError"
+data: undefined
+path: "/base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":2253,"keepAliveSocket":false,"requestUrls":["http://undefined/base/pc/web/cityInfo"],"timing":null,"remoteAddress":"","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 2516
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:57,775 ERROR 9304 [-/127.0.0.1/-/102ms GET /] nodejs.ResponseError: Parse Error: Response overflow, GET https://py.lexue.com//base/pc/web/cityInfo -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"py.lexue.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at TLSSocket.socketOnData (_http_client.js:469:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)
+bytesParsed: 13
+code: "HPE_INVALID_STATUS"
+reason: "Response overflow"
+rawPacket: "<Buffer 48 54 54 50 2f 31 2e 31 20 39 30 30 31 20 0d 0a 41 63 63 65 73 73 2d 43 6f 6e 74 72 6f 6c 2d 41 6c 6c 6f 77 2d 4f 72 69 67 69 6e 3a 20 2a 0d 0a 41 63 ...(443) >"
+name: "ResponseError"
+data: undefined
+path: "//base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":88,"keepAliveSocket":false,"requestUrls":["https://py.lexue.com//base/pc/web/cityInfo"],"timing":null,"remoteAddress":"124.250.97.211","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9304
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:59,185 ERROR 9304 [-/127.0.0.1/-/27ms GET /] nodejs.ResponseError: Parse Error: Response overflow, GET https://py.lexue.com//base/pc/web/cityInfo -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":2,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"py.lexue.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at TLSSocket.socketOnData (_http_client.js:469:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)
+bytesParsed: 13
+code: "HPE_INVALID_STATUS"
+reason: "Response overflow"
+rawPacket: "<Buffer 48 54 54 50 2f 31 2e 31 20 39 30 30 31 20 0d 0a 41 63 63 65 73 73 2d 43 6f 6e 74 72 6f 6c 2d 41 6c 6c 6f 77 2d 4f 72 69 67 69 6e 3a 20 2a 0d 0a 41 63 ...(443) >"
+name: "ResponseError"
+data: undefined
+path: "//base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":26,"keepAliveSocket":false,"requestUrls":["https://py.lexue.com//base/pc/web/cityInfo"],"timing":null,"remoteAddress":"124.250.97.211","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9304
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:59,405 ERROR 9304 [-/127.0.0.1/-/58ms GET /] nodejs.ResponseError: Parse Error: Response overflow, GET https://py.lexue.com//base/pc/web/cityInfo -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":3,"createSocketErrorCount":0,"closeSocketCount":2,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"py.lexue.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at TLSSocket.socketOnData (_http_client.js:469:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)
+bytesParsed: 13
+code: "HPE_INVALID_STATUS"
+reason: "Response overflow"
+rawPacket: "<Buffer 48 54 54 50 2f 31 2e 31 20 39 30 30 31 20 0d 0a 41 63 63 65 73 73 2d 43 6f 6e 74 72 6f 6c 2d 41 6c 6c 6f 77 2d 4f 72 69 67 69 6e 3a 20 2a 0d 0a 41 63 ...(443) >"
+name: "ResponseError"
+data: undefined
+path: "//base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":57,"keepAliveSocket":false,"requestUrls":["https://py.lexue.com//base/pc/web/cityInfo"],"timing":null,"remoteAddress":"124.250.97.211","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9304
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:59,596 ERROR 9304 [-/127.0.0.1/-/41ms GET /] nodejs.ResponseError: Parse Error: Response overflow, GET https://py.lexue.com//base/pc/web/cityInfo -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":4,"createSocketErrorCount":0,"closeSocketCount":3,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"py.lexue.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at TLSSocket.socketOnData (_http_client.js:469:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)
+bytesParsed: 13
+code: "HPE_INVALID_STATUS"
+reason: "Response overflow"
+rawPacket: "<Buffer 48 54 54 50 2f 31 2e 31 20 39 30 30 31 20 0d 0a 41 63 63 65 73 73 2d 43 6f 6e 74 72 6f 6c 2d 41 6c 6c 6f 77 2d 4f 72 69 67 69 6e 3a 20 2a 0d 0a 41 63 ...(443) >"
+name: "ResponseError"
+data: undefined
+path: "//base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":41,"keepAliveSocket":false,"requestUrls":["https://py.lexue.com//base/pc/web/cityInfo"],"timing":null,"remoteAddress":"124.250.97.211","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9304
+hostname: ��ѧ��˧������
+
+2021-01-23 17:15:59,746 ERROR 9304 [-/127.0.0.1/-/44ms GET /] nodejs.ResponseError: Parse Error: Response overflow, GET https://py.lexue.com//base/pc/web/cityInfo -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":5,"createSocketErrorCount":0,"closeSocketCount":4,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"py.lexue.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at TLSSocket.socketOnData (_http_client.js:469:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)
+bytesParsed: 13
+code: "HPE_INVALID_STATUS"
+reason: "Response overflow"
+rawPacket: "<Buffer 48 54 54 50 2f 31 2e 31 20 39 30 30 31 20 0d 0a 41 63 63 65 73 73 2d 43 6f 6e 74 72 6f 6c 2d 41 6c 6c 6f 77 2d 4f 72 69 67 69 6e 3a 20 2a 0d 0a 41 63 ...(443) >"
+name: "ResponseError"
+data: undefined
+path: "//base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":44,"keepAliveSocket":false,"requestUrls":["https://py.lexue.com//base/pc/web/cityInfo"],"timing":null,"remoteAddress":"124.250.97.211","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 9304
+hostname: ��ѧ��˧������
+
+2021-01-23 17:16:42,301 ERROR 31060 [-/127.0.0.1/-/80ms GET /] nodejs.ResponseError: Parse Error: Response overflow, GET https://py.lexue.com//base/pc/web/cityInfo -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"py.lexue.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at TLSSocket.socketOnData (_http_client.js:469:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)
+bytesParsed: 13
+code: "HPE_INVALID_STATUS"
+reason: "Response overflow"
+rawPacket: "<Buffer 48 54 54 50 2f 31 2e 31 20 39 30 30 31 20 0d 0a 41 63 63 65 73 73 2d 43 6f 6e 74 72 6f 6c 2d 41 6c 6c 6f 77 2d 4f 72 69 67 69 6e 3a 20 2a 0d 0a 41 63 ...(443) >"
+name: "ResponseError"
+data: undefined
+path: "//base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":74,"keepAliveSocket":false,"requestUrls":["https://py.lexue.com//base/pc/web/cityInfo"],"timing":null,"remoteAddress":"124.250.97.211","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 31060
+hostname: ��ѧ��˧������
+
+2021-01-23 17:17:01,037 ERROR 16616 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16616
+hostname: ��ѧ��˧������
+
+2021-01-23 17:17:01,924 ERROR 16616 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 16616
+hostname: ��ѧ��˧������
+
+2021-01-23 17:17:06,554 ERROR 23068 [-/127.0.0.1/-/82ms GET /] nodejs.ResponseError: Parse Error: Response overflow, GET https://py.lexue.com//base/pc/web/cityInfo -1 (connected: true, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":0,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{"py.lexue.com:443::::::::::::::::::":1},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at TLSSocket.socketOnData (_http_client.js:469:22)
+    at TLSSocket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:271:9)
+    at TLSSocket.Readable.push (_stream_readable.js:212:10)
+    at TLSWrap.onStreamRead (internal/stream_base_commons.js:186:23)
+bytesParsed: 13
+code: "HPE_INVALID_STATUS"
+reason: "Response overflow"
+rawPacket: "<Buffer 48 54 54 50 2f 31 2e 31 20 39 30 30 31 20 0d 0a 41 63 63 65 73 73 2d 43 6f 6e 74 72 6f 6c 2d 41 6c 6c 6f 77 2d 4f 72 69 67 69 6e 3a 20 2a 0d 0a 41 63 ...(443) >"
+name: "ResponseError"
+data: undefined
+path: "//base/pc/web/cityInfo"
+status: -1
+headers: {}
+res: {"status":-1,"statusCode":-1,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":76,"keepAliveSocket":false,"requestUrls":["https://py.lexue.com//base/pc/web/cityInfo"],"timing":null,"remoteAddress":"124.250.97.211","remotePort":443,"socketHandledRequests":1,"socketHandledResponses":0}
+pid: 23068
+hostname: ��ѧ��˧������
+
+2021-01-25 20:42:36,157 ERROR 11104 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11104
+hostname: ��ѧ��˧������
+
+2021-01-25 20:43:08,672 ERROR 11104 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11104
+hostname: ��ѧ��˧������
+
+2021-01-25 20:43:13,626 ERROR 11104 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11104
+hostname: ��ѧ��˧������
+
+2021-01-25 20:43:14,366 ERROR 11104 nodejs.unhandledExceptionError: read ECONNRESET
+    at TCP.onStreamRead (internal/stream_base_commons.js:205:27)
+errno: "ECONNRESET"
+code: "ECONNRESET"
+syscall: "read"
+name: "unhandledExceptionError"
+pid: 11104
+hostname: ��ѧ��˧������
+
+2021-01-25 20:45:54,777 ERROR 12812 [-/127.0.0.1/-/123ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 12812
+hostname: ��ѧ��˧������
+
+2021-01-25 20:48:40,182 ERROR 17808 [-/127.0.0.1/-/162ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 17808
+hostname: ��ѧ��˧������
+
+2021-01-25 20:58:58,505 ERROR 17808 [-/127.0.0.1/-/99ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 17808
+hostname: ��ѧ��˧������
+
+2021-01-25 21:00:08,334 ERROR 17808 [-/127.0.0.1/-/71ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 17808
+hostname: ��ѧ��˧������
+
+2021-01-25 21:01:20,201 ERROR 17808 [-/127.0.0.1/-/73ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 17808
+hostname: ��ѧ��˧������
+
+2021-01-25 21:01:39,329 ERROR 17808 [-/127.0.0.1/-/79ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 17808
+hostname: ��ѧ��˧������
+
+2021-01-25 21:01:39,888 ERROR 17808 [-/127.0.0.1/-/91ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 17808
+hostname: ��ѧ��˧������
+
+2021-01-25 21:01:40,045 ERROR 17808 [-/127.0.0.1/-/70ms GET /list] nodejs.SyntaxError: Unexpected token 'for' in D:\dev\egg\app\view\list.html while compiling ejs
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+
+If the above error is not helpful, you may want to try EJS-Lint:
+https://github.com/RyanZim/EJS-Lint
+Or, if you meant to create an async function, pass `async: true` as an option.
+    at new Function (<anonymous>)
+    at Template.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:652:12)
+    at Object.compile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:392:16)
+    at handleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:215:18)
+    at tryHandleCache (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:254:16)
+    at Object.exports.renderFile (D:\dev\egg\node_modules\_ejs@2.7.4@ejs\lib\ejs.js:485:10)
+    at D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:16:11
+    at new Promise (<anonymous>)
+    at EjsView.[EjsView#_render] (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:15:12)
+    at EjsView.render (D:\dev\egg\node_modules\_egg-view-ejs@2.0.1@egg-view-ejs\lib\view.js:28:36)
+
+pid: 17808
+hostname: ��ѧ��˧������
+
+2021-02-06 09:42:07,996 ERROR 5480 [-/127.0.0.1/-/239ms GET /] nodejs.SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at WebSite.city (D:\dev\egg\app\service\website.js:12:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:16)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+
+pid: 5480
+hostname: ��ѧ��˧������
+
+2021-02-06 09:42:51,148 ERROR 19376 [-/127.0.0.1/-/73ms GET /] nodejs.SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at WebSite.city (D:\dev\egg\app\service\website.js:12:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:16)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+
+pid: 19376
+hostname: ��ѧ��˧������
+
+2021-02-06 09:43:08,148 ERROR 8400 [-/127.0.0.1/-/65ms GET /] nodejs.SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at WebSite.city (D:\dev\egg\app\service\website.js:11:22)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:16)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+
+pid: 8400
+hostname: ��ѧ��˧������
+
+2021-02-06 09:43:25,321 ERROR 8400 [-/127.0.0.1/-/40ms GET /] nodejs.SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at WebSite.city (D:\dev\egg\app\service\website.js:11:22)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:16)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+
+pid: 8400
+hostname: ��ѧ��˧������
+
+2021-02-06 09:43:50,024 ERROR 9080 [-/127.0.0.1/-/62ms GET /] nodejs.SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at WebSite.city (D:\dev\egg\app\service\website.js:11:22)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:16)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+
+pid: 9080
+hostname: ��ѧ��˧������
+
+2021-02-06 09:44:12,738 ERROR 18644 [-/127.0.0.1/-/58ms GET /] nodejs.SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at WebSite.city (D:\dev\egg\app\service\website.js:13:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:16)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+
+pid: 18644
+hostname: ��ѧ��˧������
+
+2021-02-06 09:44:23,195 ERROR 10648 [-/127.0.0.1/-/112ms GET /] nodejs.SyntaxError: Unexpected token < in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at WebSite.city (D:\dev\egg\app\service\website.js:13:21)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async HomeController.index (D:\dev\egg\app\controller\home.js:5:16)
+    at async D:\dev\egg\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (D:\dev\egg\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (D:\dev\egg\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+
+pid: 10648
+hostname: ��ѧ��˧������
+
+2021-02-06 09:59:28,379 ERROR 2916 nodejs.ClusterClientNoResponseError: client no response in 236243ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\dev\egg\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2916
+hostname: ��ѧ��˧������
+
+2021-02-06 12:57:23,508 ERROR 2916 nodejs.ClusterClientNoResponseError: client no response in 2774707ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (D:\dev\egg\node_modules\_cluster-client@3.0.1@cluster-client\lib\leader.js:77:23)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+name: "ClusterClientNoResponseError"
+pid: 2916
+hostname: ��ѧ��˧������
+

@@ -1,0 +1,18 @@
+{
+  "name": "egg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^2.29.1",
+    "egg-view-ejs": "^2.0.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.15.0"
+  }
+}
